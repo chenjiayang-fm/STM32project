@@ -1,0 +1,60 @@
+---- ILI9341_Write_Cmd Matches (59 in 0 files) ----
+bsp_ili9341_lcd.c (User\lcd) line 40 : __inline void                 ILI9341_Write_Cmd           ( uint16_t usCmd );
+bsp_ili9341_lcd.c (User\lcd) line 59 : __inline void ILI9341_Write_Cmd ( uint16_t usCmd )
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xCF  );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xED );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xE8 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xCB );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xF7 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xEA );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xB1 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xB6 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC0 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC1 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC5 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC7 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xF2 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x26 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xE0 ); //Set Gamma
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0XE1 ); //Set Gamma
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x36 ); 	
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( CMD_SetCoordinateX ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( CMD_SetCoordinateY ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x3a ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x11 );	
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x29 ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xCF  );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xED );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xE8 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xCB );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xF7 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xEA );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC0 );   //Power control
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC1 );   //Power control
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xC5 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) : //	ILI9341_Write_Cmd ( 0xC7 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x36 );   //Memory Access Control
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0x3A);   
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xB1 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xB6 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0xF6);    			
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0xF2 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x26 );
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0xe0); //Positive gamma
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0xe1); //Negative gamma
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) : //	ILI9341_Write_Cmd ( CMD_SetCoordinateX ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) : //	ILI9341_Write_Cmd ( CMD_SetCoordinateY ); 
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x11 );	  //Exit Sleep
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd ( 0x29 );   //Display on
+ILI9341_REG_Config in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0x2c);
+ILI9341_ReadID in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd(0x04);
+ILI9341_ReadID in bsp_ili9341_lcd.c (User\lcd) :     ILI9341_Write_Cmd(0xD3);
+ILI9341_GramScan in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( 0x36 );
+ILI9341_GramScan in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetCoordinateX ); 
+ILI9341_GramScan in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetCoordinateY ); 
+ILI9341_GramScan in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetPixel );	
+ILI9341_OpenWindow in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetCoordinateX ); 				 /* 设置X坐标 */
+ILI9341_OpenWindow in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetCoordinateY ); 			     /* 设置Y坐标*/
+ILI9341_FillColor in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetPixel );	
+ILI9341_Read_PixelData in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( 0x2E );   /* 读数据 */
+ILI9341_DispChar_EN in bsp_ili9341_lcd.c (User\lcd) : 	ILI9341_Write_Cmd ( CMD_SetPixel );			
